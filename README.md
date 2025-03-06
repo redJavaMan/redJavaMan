@@ -59,7 +59,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 
 ## 📈 My GitHub Activity
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redJavaMan&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=redJavaMan&theme=radical)](https://git.io/streak-stats)
 
 ## 🤝 Let's Connect!
 
