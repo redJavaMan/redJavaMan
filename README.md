@@ -53,13 +53,23 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=redJavaMan&show_icons=true&theme=radical)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redJavaMan&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=redJavaMan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=redJavaMan&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ## 📈 My GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=redJavaMan&theme=radical)](https://git.io/streak-stats)
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=redJavaMan&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+[![Lukman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redJavaMan&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ## 🤝 Let's Connect!
 
