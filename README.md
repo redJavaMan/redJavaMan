@@ -65,7 +65,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 
 <div align="center">
   
-![Lukman's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=redJavaMan&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=redJavaMan&theme=radical)](https://git.io/streak-stats)
 
 [![Lukman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=redJavaMan&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
