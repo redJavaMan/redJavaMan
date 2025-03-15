@@ -37,65 +37,107 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 
 ## 💻 Featured Projects
 
-<div align="center">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-### Automated End-to-End Testing Framework for Web Applications
-<img src="/api/placeholder/800/400" alt="Cucumber Selenium Framework" width="600px"/>
+<div style="background-color: #111; border-radius: 10px; overflow: hidden; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/redJavaMan/Lukmanudhin_Portfolio/main/images/amazon-logo.png" alt="Amazon Logo" style="width: 100%; height: 200px; object-fit: cover; background-color: #FF9900;">
+  <div style="padding: 20px;">
+    <h3 style="color: #ff6b8b; margin-top: 0;">Automated End-to-End Testing Framework</h3>
+    <p>A BDD testing framework using Cucumber and Selenium WebDriver to automate end-to-end testing for web applications.</p>
+    <div style="margin: 15px 0;">
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Java</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Selenium</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">TestNG</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Cucumber</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Maven</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">POM</span>
+    </div>
+    <div>
+      <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">View Project</a>
+      <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" style="display: inline-block; background-color: transparent; color: #ffd700; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: 1px solid #ffd700;">Project Details</a>
+    </div>
+  </div>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+<div style="background-color: #111; border-radius: 10px; overflow: hidden; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/redJavaMan/Lukmanudhin_Portfolio/main/images/emirates-logo.png" alt="Emirates Logo" style="width: 100%; height: 200px; object-fit: cover; background-color: #D71E1E;">
+  <div style="padding: 20px;">
+    <h3 style="color: #ff6b8b; margin-top: 0;">Emirates E-Commerce UI/API Test Automation</h3>
+    <p>End-to-end test automation framework for Emirates' e-commerce platform, validating critical user journeys.</p>
+    <div style="margin: 15px 0;">
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Java</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Selenium</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Rest Assured</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Allure Report</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">TestNG</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Maven</span>
+    </div>
+    <div>
+      <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">View Project</a>
+      <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" style="display: inline-block; background-color: transparent; color: #ffd700; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: 1px solid #ffd700;">Project Details</a>
+    </div>
+  </div>
+</div>
 
-Built BDD framework with Cucumber and Selenium for web app testing, using POM and Maven for multi-browser tests.
+<div style="background-color: #111; border-radius: 10px; overflow: hidden; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/redJavaMan/Lukmanudhin_Portfolio/main/images/udacity-logo.png" alt="Udacity Logo" style="width: 100%; height: 200px; object-fit: cover; background-color: #5FCAFF;">
+  <div style="padding: 20px;">
+    <h3 style="color: #ff6b8b; margin-top: 0;">Udacity Catalog BDD Testing Framework</h3>
+    <p>Comprehensive automated testing framework for the Udacity Catalog using Playwright, Cucumber, and TypeScript.</p>
+    <div style="margin: 15px 0;">
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">TypeScript</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Playwright</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Cucumber</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">API Testing</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">JavaScript</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Allure</span>
+    </div>
+    <div>
+      <a href="https://github.com/redJavaMan/udacity-bdd-test" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">View Project</a>
+      <a href="https://github.com/redJavaMan/udacity-bdd-test" style="display: inline-block; background-color: transparent; color: #ffd700; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: 1px solid #ffd700;">Project Details</a>
+    </div>
+  </div>
+</div>
 
----
+<div style="background-color: #111; border-radius: 10px; overflow: hidden; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/redJavaMan/Lukmanudhin_Portfolio/main/images/appium-logo.png" alt="Mobile Testing Logo" style="width: 100%; height: 200px; object-fit: cover; background-color: #2A2A4A;">
+  <div style="padding: 20px;">
+    <h3 style="color: #ff6b8b; margin-top: 0;">Mobile Test Automation Framework</h3>
+    <p>Mobile test automation framework for General Store Android app using Appium and Java, with POM for scalable UI testing.</p>
+    <div style="margin: 15px 0;">
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Java</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Appium</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">TestNG</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">POM</span>
+    </div>
+    <div>
+      <a href="https://github.com/redJavaMan/Appium" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">View Project</a>
+      <a href="https://github.com/redJavaMan/Appium" style="display: inline-block; background-color: transparent; color: #ffd700; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: 1px solid #ffd700;">Project Details</a>
+    </div>
+  </div>
+</div>
 
-### Emirates E-Commerce UI/API Test Automation Framework
-<img src="/api/placeholder/800/400" alt="Emirates Test Framework" width="600px"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redJavaMan/emirates-ui-e2e-test)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat-square&logo=rest-assured&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-
-Created test framework for Emirates ecommerce, integrating Selenium and RestAssured for UI/API tests with Allure reports.
-
----
-
-### Udacity Catalog BDD Testing Framework
-<img src="/api/placeholder/800/400" alt="Udacity BDD Framework" width="600px"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red.javaMan/udacity-bdd-test)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
-
-Developed BDD framework for Udacity Catalog with Playwright and TypeScript, featuring UI/API tests and Allure reports.
-
----
-
-### Mobile Test Automation Framework
-<img src="/api/placeholder/800/400" alt="Appium Mobile Framework" width="600px"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redJavaMan/Appium)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-6E36F6?style=flat-square&logo=appium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=flat-square&logo=testng&logoColor=white)
-
-Built mobile test framework for General Store Android app using Appium and Java, with POM for scalable UI testing.
-
----
-
-### Flipkart E-commerce Selenium Automation Framework
-<img src="/api/placeholder/800/400" alt="Flipkart Test Framework" width="600px"/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red.javaMan/flipkart-ui-e2e-test)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=flat-square&logo=testng&logoColor=white)
-
-Designed Selenium framework for Flipkart ecommerce testing with Java and TestNG, using Extent Reports for results.
+<div style="background-color: #111; border-radius: 10px; overflow: hidden; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/redJavaMan/Lukmanudhin_Portfolio/main/images/flipkart-logo.png" alt="Flipkart Logo" style="width: 100%; height: 200px; object-fit: cover; background-color: #FFDD00;">
+  <div style="padding: 20px;">
+    <h3 style="color: #ff6b8b; margin-top: 0;">Flipkart E-commerce Automation Framework</h3>
+    <p>Selenium framework for Flipkart e-commerce testing with Java and TestNG, using Extent Reports for detailed test results.</p>
+    <div style="margin: 15px 0;">
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Java</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px;
+      <div style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Java</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Selenium WebDriver</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Extent Report</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">TestNG</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Maven</span>
+      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">POM</span>
+    </div>
+    <div>
+      <a href="https://github.com/redJavaMan/flipkart-ui-e2e-test" style="display: inline-block; background-color: #3498db; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-right: 10px;">View Project</a>
+      <a href="https://github.com/redJavaMan/flipkart-ui-e2e-test" style="display: inline-block; background-color: transparent; color: #ffd700; padding: 10px 20px; text-decoration: none; border-radius: 5px; border: 1px solid #ffd700;">Project Details</a>
+    </div>
+  </div>
+</div>
 
 </div>
 
