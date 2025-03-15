@@ -35,39 +35,69 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
-## 💻 Projects
+## 💻 Featured Projects
 
-### [Automated End-to-End Testing Framework](https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber)
-Built BDD framework with Cucumber and Selenium for web app testing, using POM and Maven for multi-browser tests.
+<div align="center">
+
+### Automated End-to-End Testing Framework for Web Applications
+<img src="/api/placeholder/800/400" alt="Cucumber Selenium Framework" width="600px"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=flat-square&logo=testng&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 
-### [Emirates E-Commerce UI/API Test Framework](https://github.com/redJavaMan/emirates-ui-e2e-test)
-Created test framework for Emirates ecommerce, integrating Selenium and RestAssured for UI/API tests with Allure reports.
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat-square&logo=rest-assured&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=flat-square&logo=testng&logoColor=white)
+Built BDD framework with Cucumber and Selenium for web app testing, using POM and Maven for multi-browser tests.
 
-### [Udacity Catalog BDD Testing Framework](https://github.com/red.javaMan/udacity-bdd-test)
-Developed BDD framework for Udacity Catalog with Playwright and TypeScript, featuring UI/API tests and Allure reports.
+---
+
+### Emirates E-Commerce UI/API Test Automation Framework
+<img src="/api/placeholder/800/400" alt="Emirates Test Framework" width="600px"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redJavaMan/emirates-ui-e2e-test)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-43B02A?style=flat-square&logo=rest-assured&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+Created test framework for Emirates ecommerce, integrating Selenium and RestAssured for UI/API tests with Allure reports.
+
+---
+
+### Udacity Catalog BDD Testing Framework
+<img src="/api/placeholder/800/400" alt="Udacity BDD Framework" width="600px"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red.javaMan/udacity-bdd-test)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
 
-### [Mobile Test Automation Framework](https://github.com/redJavaMan/Appium)
-Built mobile test framework for General Store Android app using Appium and Java, with POM for scalable UI testing.
+Developed BDD framework for Udacity Catalog with Playwright and TypeScript, featuring UI/API tests and Allure reports.
+
+---
+
+### Mobile Test Automation Framework
+<img src="/api/placeholder/800/400" alt="Appium Mobile Framework" width="600px"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/redJavaMan/Appium)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-6E36F6?style=flat-square&logo=appium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=flat-square&logo=testng&logoColor=white)
 
-### [Flipkart E-commerce Automation Framework](https://github.com/red.javaMan/flipkart-ui-e2e-test)
-Designed Selenium framework for Flipkart ecommerce testing with Java and TestNG, using Extent Reports for results.
+Built mobile test framework for General Store Android app using Appium and Java, with POM for scalable UI testing.
+
+---
+
+### Flipkart E-commerce Selenium Automation Framework
+<img src="/api/placeholder/800/400" alt="Flipkart Test Framework" width="600px"/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red.javaMan/flipkart-ui-e2e-test)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=flat-square&logo=testng&logoColor=white)
+
+Designed Selenium framework for Flipkart ecommerce testing with Java and TestNG, using Extent Reports for results.
+
+</div>
 
 ## 🏆 Key Achievements
 
@@ -84,12 +114,6 @@ Designed Selenium framework for Flipkart ecommerce testing with Java and TestNG,
   
 - **Bachelor of Computer Science** (2019-2022)  
   The New College, University of Madras, Chennai
-
-## 📜 Certifications
-
-- Internship in Software Testing (Pantech e Learning)
-- Data Analytics Using Python (CIRF)
-- ISTQB Certified Tester (In Progress)
 
 ## 📊 GitHub Stats
 
