@@ -43,7 +43,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Amazon UI E2E Tests Cucumber</h3>
       <div align="center">
         <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
-          <img src="https://www.google.com/imgres?q=amazon%20logo&imgurl=https%3A%2F%2Fwww.prideindustries.com%2Fwp-content%2Fuploads%2F2021%2F06%2FCustomer-logo_Amazon-1-1024x512.png.webp&imgrefurl=https%3A%2F%2Fwww.prideindustries.com%2Fcase-studies%2Famazon-com&docid=YpdjBGdkw_-kCM&tbnid=Mq2l0ysQ9XpIFM&vet=12ahUKEwiJ-oyB6oyMAxW5s1YBHdoABBEQM3oECHIQAA..i&w=1024&h=512&hcb=2&ved=2ahUKEwiJ-oyB6oyMAxW5s1YBHdoABBEQM3oECHIQAA" alt="Amazon UI BDD Framework" width="100%" />
+          <img src="https://raw.githubusercontent.com/redJavaMan/redJavaMan/Images/Amazon.jpg" alt="Amazon UI BDD Framework" width="100%" />
         </a>
         <p>
           <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
