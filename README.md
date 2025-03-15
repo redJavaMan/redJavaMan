@@ -35,6 +35,88 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
+## 💻 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Amazon UI E2E Tests Cucumber</h3>
+      <div align="center">
+        <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
+          <img src="https://api.placeholder.com/400/330/b3dae0-008abd?text=Cucumber+Selenium+Framework" alt="Amazon UI BDD Framework" width="100%" />
+        </a>
+        <p>
+          <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+          </a>
+        </p>
+        <p><strong>Java, Selenium WebDriver, TestNG, Cucumber(BDD), Maven, POM</strong> - Built BDD framework with Cucumber and Selenium for web app testing, using POM and Maven for multi-browser tests.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Emirates E-Commerce UI/API Framework</h3>
+      <div align="center">
+        <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" target="_blank">
+          <img src="https://api.placeholder.com/400/330/FFD700-d10202?text=UI+API+Testing+Framework" alt="Emirates Testing Framework" width="100%" />
+        </a>
+        <p>
+          <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+          </a>
+        </p>
+        <p><strong>Java, Selenium, Rest Assured, Allure, TestNG, Maven, POM, Postman</strong> - Created test framework for Emirates ecommerce, integrating Selenium and RestAssured for UI/API tests with Allure reports.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Udacity Catalog BDD Testing Framework</h3>
+      <div align="center">
+        <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
+          <img src="https://api.placeholder.com/400/330/3178c6-2b7489?text=Playwright+TypeScript+BDD" alt="Udacity BDD Framework" width="100%" />
+        </a>
+        <p>
+          <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+          </a>
+        </p>
+        <p><strong>TypeScript, Playwright, Cucumber(BDD), API Testing, JS, POM</strong> - Developed BDD framework for Udacity Catalog with Playwright and TypeScript, featuring UI/API tests and Allure reports.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Mobile Test Automation Framework</h3>
+      <div align="center">
+        <a href="https://github.com/redJavaMan/Appium" target="_blank">
+          <img src="https://api.placeholder.com/400/330/a4c639-333333?text=Appium+Mobile+Testing" alt="Appium Mobile Framework" width="100%" />
+        </a>
+        <p>
+          <a href="https://github.com/redJavaMan/Appium" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+          </a>
+        </p>
+        <p><strong>Java, Appium, TestNG, Page Object Model(POM)</strong> - Built mobile test framework for General Store Android app using Appium and Java, with POM for scalable UI testing.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Flipkart E-commerce Selenium Framework</h3>
+      <div align="center">
+        <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
+          <img src="https://api.placeholder.com/400/330/2874f0-ffffff?text=Selenium+E-commerce+Testing" alt="Flipkart Testing Framework" width="100%" />
+        </a>
+        <p>
+          <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black" />
+          </a>
+        </p>
+        <p><strong>Java, Selenium WebDriver, Extent Report, TestNG, Maven, POM</strong> - Designed Selenium framework for Flipkart ecommerce testing with Java and TestNG, using Extent Reports for results.</p>
+      </div>
+    </td>
+    <td></td>
+  </tr>
+</table>
+
 ## 🏆 Key Achievements
 
 - Reduced test execution time by 60% by implementing storage state in Playwright
