@@ -75,5 +75,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 
 I'm always interested in collaborating on innovative testing projects. Feel free to reach out!
 
+📞 Phone: +91 7338818184
 ✉️ Email: lukmanudhinm@gmail.com  
 💼 LinkedIn: [linkedin.com/in/lukmanudhin](https://www.linkedin.com/in/lukmanudhin)
+🌐 Portfolio: redjavaman.github.io/Lukmanudhin_Portfolio
