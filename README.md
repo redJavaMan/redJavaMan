@@ -40,7 +40,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
 <div style="background-color: #111; border-radius: 10px; overflow: hidden; margin-bottom: 20px;">
-  <img src="https://raw.githubusercontent.com/redJavaMan/Lukmanudhin_Portfolio/main/images/amazon-logo.png" alt="Amazon Logo" style="width: 100%; height: 200px; object-fit: cover; background-color: #FF9900;">
+  <img src="Images/Amazon.jpg" alt="Amazon Logo" style="width: 100%; height: 200px; object-fit: cover; background-color: #FF9900;">
   <div style="padding: 20px;">
     <h3 style="color: #ff6b8b; margin-top: 0;">Automated End-to-End Testing Framework</h3>
     <p>A BDD testing framework using Cucumber and Selenium WebDriver to automate end-to-end testing for web applications.</p>
@@ -123,8 +123,6 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
     <h3 style="color: #ff6b8b; margin-top: 0;">Flipkart E-commerce Automation Framework</h3>
     <p>Selenium framework for Flipkart e-commerce testing with Java and TestNG, using Extent Reports for detailed test results.</p>
     <div style="margin: 15px 0;">
-      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Java</span>
-      <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px;
       <div style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Java</span>
       <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Selenium WebDriver</span>
       <span style="background-color: #333; color: #ff6b8b; padding: 5px 10px; border-radius: 15px; margin-right: 5px; font-size: 12px;">Extent Report</span>
