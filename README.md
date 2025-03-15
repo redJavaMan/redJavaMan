@@ -85,6 +85,12 @@ Designed Selenium framework for Flipkart ecommerce testing with Java and TestNG,
 - **Bachelor of Computer Science** (2019-2022)  
   The New College, University of Madras, Chennai
 
+  ## 📜 Certifications
+
+- Internship in Software Testing (Pantech e Learning)
+- Data Analytics Using Python (CIRF)
+- ISTQB Certified Tester (In Progress)
+
 ## 📊 GitHub Stats
 
 <div align="center">
