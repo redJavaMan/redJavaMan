@@ -47,7 +47,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
         </a>
         <p>
           <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
-            <img src="[Images/Amazon.jpg](https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black)">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
         <p><strong>Java, Selenium WebDriver, TestNG, Cucumber, Maven, POM</strong> - Built BDD framework with Cucumber and Selenium for web app testing, using Page Object Model and Maven for multi-browser tests.</p>
@@ -57,7 +57,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Emirates E-Commerce Test Framework</h3>
       <div align="center">
         <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" target="_blank">
-          <img src="Images/emiratesred.jpg" width="400" alt="UI API Testing Framework"/>
+          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/ui-api-automation.png" width="400" alt="UI API Testing Framework"/>
         </a>
         <p>
           <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" target="_blank">
@@ -73,7 +73,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Udacity Catalog BDD Framework</h3>
       <div align="center">
         <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
-          <img src="Images/Udacity.jpg" width="400" alt="Playwright TypeScript Project"/>
+          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/playwright-typescript.png" width="400" alt="Playwright TypeScript Project"/>
         </a>
         <p>
           <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
@@ -87,7 +87,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Appium Mobile Testing Framework</h3>
       <div align="center">
         <a href="https://github.com/redJavaMan/Appium" target="_blank">
-          <img src="Images/Appium.jpg" width="400" alt="Appium Mobile Testing"/>
+          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/appium-mobile.png" width="400" alt="Appium Mobile Testing"/>
         </a>
         <p>
           <a href="https://github.com/redJavaMan/Appium" target="_blank">
@@ -103,7 +103,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Flipkart E-commerce Test Framework</h3>
       <div align="center">
         <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
-          <img src="Images/Flipkart.jpg" width="400" alt="Selenium Java Framework"/>
+          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/selenium-java.png" width="400" alt="Selenium Java Framework"/>
         </a>
         <p>
           <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
