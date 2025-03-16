@@ -43,11 +43,11 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Amazon E2E Tests with Cucumber</h3>
       <div align="center">
         <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
-          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/cucumber-selenium.png" width="400" alt="Cucumber Selenium Project"/>
+          <img src="Images/Amazon.jpg" width="400" alt="Cucumber Selenium Project"/>
         </a>
         <p>
           <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
-            <img src="Images/Amazon.jpg">
+            <img src="[Images/Amazon.jpg](https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black)">
           </a>
         </p>
         <p><strong>Java, Selenium WebDriver, TestNG, Cucumber, Maven, POM</strong> - Built BDD framework with Cucumber and Selenium for web app testing, using Page Object Model and Maven for multi-browser tests.</p>
