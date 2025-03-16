@@ -57,7 +57,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Emirates E-Commerce Test Framework</h3>
       <div align="center">
         <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" target="_blank">
-          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/ui-api-automation.png" width="400" alt="UI API Testing Framework"/>
+          <img src="Images/emiratesred.jpg" width="400" alt="UI API Testing Framework"/>
         </a>
         <p>
           <a href="https://github.com/redJavaMan/emirates-ui-e2e-test" target="_blank">
@@ -73,7 +73,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Udacity Catalog BDD Framework</h3>
       <div align="center">
         <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
-          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/playwright-typescript.png" width="400" alt="Playwright TypeScript Project"/>
+          <img src="Images/Udacity.jpg" width="400" alt="Playwright TypeScript Project"/>
         </a>
         <p>
           <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
@@ -87,7 +87,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Appium Mobile Testing Framework</h3>
       <div align="center">
         <a href="https://github.com/redJavaMan/Appium" target="_blank">
-          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/appium-mobile.png" width="400" alt="Appium Mobile Testing"/>
+          <img src="Images/Appium.jpg" width="400" alt="Appium Mobile Testing"/>
         </a>
         <p>
           <a href="https://github.com/redJavaMan/Appium" target="_blank">
@@ -103,7 +103,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
       <h3 align="center">Flipkart E-commerce Test Framework</h3>
       <div align="center">
         <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
-          <img src="https://raw.githubusercontent.com/redJavaMan/assets/main/images/selenium-java.png" width="400" alt="Selenium Java Framework"/>
+          <img src="Images/Flipkart.jpg" width="400" alt="Selenium Java Framework"/>
         </a>
         <p>
           <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
