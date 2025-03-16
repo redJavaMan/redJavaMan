@@ -130,6 +130,12 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
   </tr>
 </table>
 
+## 📜 Certifications
+
+- Internship in Software Testing (Pantech e Learning)
+- Data Analytics Using Python (CIRF)
+- ISTQB Certified Tester (In Progress)
+
 ## 🏆 Key Achievements
 
 - Reduced test execution time by 60% by implementing storage state in Playwright
