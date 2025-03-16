@@ -72,11 +72,11 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
     <td width="50%">
       <h3 align="center">Udacity Catalog BDD Framework</h3>
       <div align="center">
-        <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
+        <a href="https://github.com/redJavaMan/udacity-bdd-test" target="_blank">
           <img src="Images/Udacity.jpg" width="400" alt="Playwright TypeScript Project"/>
         </a>
         <p>
-          <a href="https://github.com/red.javaMan/udacity-bdd-test" target="_blank">
+          <a href="https://github.com/redJavaMan/udacity-bdd-test" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
@@ -102,11 +102,11 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
     <td width="50%">
       <h3 align="center">Flipkart E-commerce Test Framework</h3>
       <div align="center">
-        <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
+        <a href="https://github.com/redJavaMan/flipkart-ui-e2e-test" target="_blank">
           <img src="Images/Flipkart.jpg" width="400" alt="Selenium Java Framework"/>
         </a>
         <p>
-          <a href="https://github.com/red.javaMan/flipkart-ui-e2e-test" target="_blank">
+          <a href="https://github.com/redJavaMan/flipkart-ui-e2e-test" target="_blank">
             <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
           </a>
         </p>
