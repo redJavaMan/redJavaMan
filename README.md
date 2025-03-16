@@ -47,7 +47,7 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
         </a>
         <p>
           <a href="https://github.com/redJavaMan/amazon-ui-e2e-tests-cucumber" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+            <img src="Images/Amazon.jpg">
           </a>
         </p>
         <p><strong>Java, Selenium WebDriver, TestNG, Cucumber, Maven, POM</strong> - Built BDD framework with Cucumber and Selenium for web app testing, using Page Object Model and Maven for multi-browser tests.</p>
