@@ -130,6 +130,60 @@ Automation Test Engineer with expertise in healthcare domain software testing. P
   </tr>
 </table>
 
+## 🤖 AI-Powered Testing Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI-Powered Test Automation Framework using Playwright MCP</h3>
+      <div align="center">
+        <a href="https://github.com/redJavaMan/AI-AGENT-MCP-TEST" target="_blank">
+          <img src="Images/Playwright-MCP.jpeg" width="400" alt="AI-Powered Test Automation Framework"/>
+        </a>
+        <p>
+          <a href="https://github.com/redJavaMan/AI-AGENT-MCP-TEST" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>TypeScript, Playwright, AI Agents (MCP), Faker.js, Page Object Model, GitHub Copilot</strong> - Built comprehensive E2E test automation framework powered by Playwright MCP with three specialized AI agents: Test Planner for exploring applications and mapping user journeys, Test Generator for converting plans into executable tests, and Test Healer for automatically debugging and fixing failures. Implements POM architecture with TypeScript, dynamic test data generation, and CSV-based credential management for maintainable test automation.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI-Driven Test Automation Framework using Selenium MCP</h3>
+      <div align="center">
+        <a href="https://github.com/redJavaMan/demoblaze-selenium-cucumber-mcp" target="_blank">
+          <img src="Images/Selenium-MCP.png" width="400" alt="AI-Driven Selenium Test Automation"/>
+        </a>
+        <p>
+          <a href="https://github.com/redJavaMan/demoblaze-selenium-cucumber-mcp" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>Java, Selenium WebDriver, Cucumber BDD, Selenium MCP, Claude AI, TestNG, Maven, POM</strong> - Developed AI-assisted test automation framework for DemoBlaze e-commerce using Selenium MCP integration with Claude AI. Features intelligent test generation, smart locator selection, context-aware code, and automated refactoring. Implements BDD with Cucumber, parallel execution, thread-safe WebDriver management, and comprehensive reporting for maintainable test automation.</p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Amazon Multi-Environment Test Automation with ZeroStep AI</h3>
+      <div align="center">
+        <a href="https://github.com/redJavaMan/Amazon-zerostep-automation" target="_blank">
+          <img src="Images/Zerostep-AI.jpeg" width="400" alt="Amazon ZeroStep Automation"/>
+        </a>
+        <p>
+          <a href="https://github.com/redJavaMan/Amazon-zerostep-automation" target="_blank">
+            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+          </a>
+        </p>
+        <p><strong>TypeScript, Playwright, ZeroStep AI, Page Object Model, Multi-Environment Testing</strong> - Created comprehensive test automation framework for Amazon supporting 16+ marketplaces (US, UK, AU, IN, DE, FR, JP, CN, IT, NL, ES, MX, BR, CA, RU). Leverages ZeroStep AI for natural language test commands, features automated language detection and switching, dynamic user generation with timestamp-based unique emails, OTP polling mechanism, and complete account setup including address and payment management across all supported regions.</p>
+      </div>
+    </td>
+    <td width="50%">
+      <!-- Placeholder for future AI projects -->
+    </td>
+  </tr>
+</table>
+
 ## 📜 Certifications
 
 - Internship in Software Testing (Pantech e Learning)
